@@ -5,7 +5,7 @@ Created By:
 Tejas Tapas -
 Github Id: vaishuganesan
 
-Rishabh Rathi -
+
 Website: vaishnavi ganeshkumar
 Github Id: vaishuganesan
 LinkedIn: vaishnavi G
